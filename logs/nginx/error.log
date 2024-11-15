@@ -1,0 +1,1 @@
+2024/11/13 12:46:09 [error] 2924#21948: *7769 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php HTTP/1.0", upstream: "fastcgi://127.0.0.1:10009", host: "truenails.local", referrer: "http://truenails.local/wp-admin/"

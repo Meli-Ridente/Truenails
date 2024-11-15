@@ -1,0 +1,9 @@
+[14-Nov-2024 12:52:49 UTC] PHP Warning:  Undefined variable $data in C:\Users\mride\Local Sites\truenails\app\public\wp-content\plugins\image-hover-effects\plugin.class.php on line 370
+[14-Nov-2024 12:52:49 UTC] PHP Warning:  Trying to access array offset on null in C:\Users\mride\Local Sites\truenails\app\public\wp-content\plugins\image-hover-effects\plugin.class.php on line 370
+[14-Nov-2024 12:52:49 UTC] PHP Warning:  Undefined variable $pro_link in C:\Users\mride\Local Sites\truenails\app\public\wp-content\plugins\image-hover-effects\plugin.class.php on line 461
+[14-Nov-2024 12:52:49 UTC] PHP Warning:  Undefined variable $pro_link in C:\Users\mride\Local Sites\truenails\app\public\wp-content\plugins\image-hover-effects\plugin.class.php on line 499
+[14-Nov-2024 12:52:49 UTC] PHP Warning:  Undefined variable $pro_link in C:\Users\mride\Local Sites\truenails\app\public\wp-content\plugins\image-hover-effects\plugin.class.php on line 510
+[14-Nov-2024 12:52:49 UTC] PHP Warning:  Undefined variable $pro_link in C:\Users\mride\Local Sites\truenails\app\public\wp-content\plugins\image-hover-effects\plugin.class.php on line 582
+[14-Nov-2024 12:52:49 UTC] PHP Warning:  Undefined variable $pro_link in C:\Users\mride\Local Sites\truenails\app\public\wp-content\plugins\image-hover-effects\plugin.class.php on line 597
+[14-Nov-2024 12:52:49 UTC] PHP Warning:  Undefined variable $pro_link in C:\Users\mride\Local Sites\truenails\app\public\wp-content\plugins\image-hover-effects\plugin.class.php on line 608
+[14-Nov-2024 12:52:49 UTC] PHP Warning:  Undefined variable $pro_link in C:\Users\mride\Local Sites\truenails\app\public\wp-content\plugins\image-hover-effects\plugin.class.php on line 620
